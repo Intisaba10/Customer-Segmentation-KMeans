@@ -1,10 +1,10 @@
 # 🛍️ Customer Segmentation Using K-Means Clustering
 
-## 📌 Project Overview
+## 📌 Overview (Internship Task)
 Customer segmentation helps businesses understand customer behavior and design targeted marketing strategies.  
-This project uses **unsupervised machine learning (K-Means clustering)** to segment mall customers based on their **spending behavior and annual income**.
+This Task uses **unsupervised machine learning (K-Means clustering)** to segment mall customers based on their **spending behavior and annual income**.
 
-The project includes **Exploratory Data Analysis (EDA)**, **K-Means clustering**, **PCA-based visualization**, and **business-driven insights** for each identified customer segment.
+The Task includes **Exploratory Data Analysis (EDA)**, **K-Means clustering**, **PCA-based visualization**, and **business-driven insights** for each identified customer segment.
 
 ---
 
