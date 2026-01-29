@@ -115,5 +115,3 @@ EDA was performed to understand data distribution and relationships:
 - Scikit-learn  
 
 ---
-
-## 📁 Project Structure
